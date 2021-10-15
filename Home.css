@@ -1,0 +1,191 @@
+.u-section-1 {
+  background-image: url("https://static.independent.co.uk/2021/04/02/15/ethereum%20price%20latest%20record%202021.jpg?width=1200&auto=webp&quality=75");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1156px;
+}
+
+.u-section-1 .u-video-1 {
+  width: 1226px;
+  height: 686px;
+  animation-duration: 1000ms;
+  box-shadow: 0 0 8px 9px rgba(128,128,128,1);
+  margin: 0 -43px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-1 .u-video-poster-1 {
+  background-image: url("images/1255592_medium2000.png");
+}
+
+.u-section-1 .u-image-1 {
+  width: 380px;
+  height: 380px;
+  animation-duration: 5500ms;
+  margin: 56px auto 34px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 714px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 940px;
+    height: 526px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 591px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 720px;
+    height: 403px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 490px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 540px;
+    height: 302px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 378px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 340px;
+    height: 190px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+  }
+}.u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://files.techmahindra.com/static/img/hi-tech-enterprise-smart-assistant.jpg");
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 853px;
+}
+
+.u-section-2 .u-group-1 {
+  width: 800px;
+  min-height: 250px;
+  margin: 550px auto 53px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 16px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 0 268px 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px 0 0 28px;
+}
+
+.u-section-2 .u-btn-1 {
+  letter-spacing: 0px;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: linear-gradient(#0fe218, #f9e79b);
+  margin: 26px 314px 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 703px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 538px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 240px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-right: 234px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 404px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 181px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-right: 66px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 254px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 111px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-right: 0;
+  }
+}
