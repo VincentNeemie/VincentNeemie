@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Tech advisor**
 
-- 🌱 I’m currently learning **Cloud Orquestration/Advanced SD Extensions/AIDriven3D**
+- 🌱 I’m currently learning **Cloud Orquestration/Advanced SD Extensions/AI Driven 3D**
 
 
 
