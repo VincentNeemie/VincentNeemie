@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincentneemie" alt="vincentneemie" /></a> </p>
 
-- 🔭 I’m currently working as **Tech advisor**
+- 🔭 I’m currently working as **Tech advisor/Cross-Plataform Dev**
 
 - 🌱 I’m currently learning **Cloud Orquestration/Advanced SD Extensions/AI Driven 3D**
 
