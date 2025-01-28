@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentneemie&label=Profile%20views&color=0e75b6&style=flat" alt="vincentneemie" /> </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vincentneemie&row=1&column=9&margin=5" alt="vincentneemie" style="width: 100%; max-width: 600px;"/>
-  </a> 
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
