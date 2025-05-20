@@ -11,9 +11,7 @@ Building impactful solutions across software, embedded systems, and science-driv
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentNeemie&layout=compact&theme=radical" alt="Vincent Neemie's Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VincentNeemie&theme=radical" alt="Vincent Neemie's GitHub Streak Stats" />
-</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VincentNeemie&theme=radical&column=7&margin-w=15&margin-h=15" alt="Vincent Neemie's GitHub Trophies" />
 </p>
