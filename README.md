@@ -70,8 +70,7 @@ I work with companies and teams to:
 ## 📫 Contact & Links
 
 - GitHub: [VincentNeemie](https://github.com/VincentNeemie)
-- LinkedIn: *[Insert if applicable]*
-- Email: *[Insert if public]*
+
 
 ---
 
