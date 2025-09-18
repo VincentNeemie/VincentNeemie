@@ -3,18 +3,6 @@
 <p align="center">
 <strong>Multidisciplinary Technologist</strong> · <strong>Full-Stack Engineer</strong> · <strong>Hardware Developer</strong> · <strong>AI Researcher</strong><br>
 Building impactful solutions across software, embedded systems, and science-driven innovation.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VincentNeemie&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentNeemie&layout=compact&theme=radical" alt="Vincent Neemie's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VincentNeemie&theme=radical&column=7&margin-w=15&margin-h=15" alt="Vincent Neemie's GitHub Trophies" />
-</p>
 
 ---
 
